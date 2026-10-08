@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620" role="img" aria-labelledby="title description">
+  <title id="title">The human dividend</title>
+  <desc id="description">Let machines work. Let humans live. A blueprint-like automation engine transforms repeatable work into a growing tree of time, agency, and abundance.</desc>
+  <defs>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#233238" stroke-width="0.6"/>
+    </pattern>
+    <pattern id="hatch" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <path d="M0 0V8" stroke="#f5bd66" stroke-width="2" opacity="0.35"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M1 1L9 5L1 9" fill="none" stroke="#f5bd66" stroke-width="1.5"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="620" rx="16" fill="#101e23"/>
+  <rect x="1" y="1" width="1198" height="618" rx="16" fill="url(#grid)" stroke="#344348"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <circle cx="54" cy="43" r="4" fill="#b4d8bc"/>
+    <text x="70" y="48" fill="#b4d8bc" font-size="13" letter-spacing="2">THE HUMAN DIVIDEND</text>
+    <text x="1146" y="48" text-anchor="end" fill="#92a7ad" font-size="12" letter-spacing="1.5">TILL STRIEGEL / FIELD NOTES 001</text>
+    <path d="M54 69H1146" stroke="#344348"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="72" letter-spacing="-3.5">
+    <text x="50" y="165" fill="#f1eddf">let machines</text>
+    <text x="50" y="240" fill="#f1eddf">work.</text>
+    <text x="50" y="335" fill="#f5bd66">let humans</text>
+    <text x="50" y="410" fill="#f5bd66">live.</text>
+  </g>
+  <g fill="#a9b9bb" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="16">
+    <text x="54" y="451">not more hours in the machine.</text>
+    <text x="54" y="475">more life outside it.</text>
+  </g>
+
+  <!-- A machine that grows possibility rather than another queue. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Botanical outputs / circuit branches -->
+    <path d="M881 257V202C881 159 850 138 816 121M881 207C906 182 935 170 963 169M881 246C928 244 992 228 1018 210" stroke="#b4d8bc" stroke-width="3"/>
+    <path d="M815 121C785 120 764 101 764 77C795 76 816 96 815 121Z" fill="#b4d8bc" fill-opacity="0.12" stroke="#b4d8bc" stroke-width="2"/>
+    <path d="M963 169C964 139 985 119 1010 120C1012 150 992 170 963 169Z" fill="#b4d8bc" fill-opacity="0.12" stroke="#b4d8bc" stroke-width="2"/>
+    <path d="M1018 210C1024 186 1051 177 1073 186C1065 210 1041 219 1018 210Z" fill="#b4d8bc" fill-opacity="0.12" stroke="#b4d8bc" stroke-width="2"/>
+    <path d="M773 86L808 114M1001 130L970 163M1061 190L1027 207" stroke="#b4d8bc" stroke-width="1"/>
+    <circle cx="881" cy="257" r="6" fill="#b4d8bc" stroke="#101e23" stroke-width="3"/>
+
+    <!-- Main engine enclosure -->
+    <rect x="756" y="268" width="252" height="159" rx="10" fill="#101e23" stroke="#f5bd66" stroke-width="2"/>
+    <rect x="766" y="278" width="232" height="139" rx="5" stroke="#48524c"/>
+    <path d="M785 291H979" stroke="#48524c"/>
+    <circle cx="779" cy="285" r="2" fill="#f5bd66" stroke="none"/>
+    <circle cx="985" cy="285" r="2" fill="#f5bd66" stroke="none"/>
+    <circle cx="779" cy="410" r="2" fill="#f5bd66" stroke="none"/>
+    <circle cx="985" cy="410" r="2" fill="#f5bd66" stroke="none"/>
+
+    <!-- Twin flywheels -->
+    <g transform="translate(824 345)" stroke="#f5bd66">
+      <circle r="32" stroke-width="2"/><circle r="21" stroke-width="1"/><circle r="6" stroke-width="2"/>
+      <path d="M0 -42V-33M30 -30L24 -24M42 0H33M30 30L24 24M0 42V33M-30 30L-24 24M-42 0H-33M-30 -30L-24 -24" stroke-width="4"/>
+      <path d="M0 -20V-7M20 0H7M0 20V7M-20 0H-7"/>
+    </g>
+    <g transform="translate(915 345)" stroke="#f5bd66">
+      <circle r="24" stroke-width="2"/><circle r="14" stroke-width="1"/><circle r="4" stroke-width="2"/>
+      <path d="M0 -33V-25M23 -23L18 -18M33 0H25M23 23L18 18M0 33V25M-23 23L-18 18M-33 0H-25M-23 -23L-18 -18" stroke-width="3"/>
+      <path d="M-4 -13L-2 -5M13 -4L5 -2M4 13L2 5M-13 4L-5 2"/>
+    </g>
+    <path d="M856 345H881" stroke="#f5bd66" stroke-width="2"/>
+    <path d="M794 393H929" stroke="#48524c" stroke-width="2"/>
+    <rect x="946" y="308" width="31" height="72" rx="3" stroke="#48524c"/>
+    <rect x="952" y="347" width="19" height="26" fill="url(#hatch)" stroke="none"/>
+    <path d="M951 338H972M951 326H972M951 315H972" stroke="#b4d8bc"/>
+
+    <!-- Input duct, output conduit and supports -->
+    <path d="M675 349H742" stroke="#f5bd66" stroke-width="2" marker-end="url(#arrow)"/>
+    <path d="M703 328H733M693 337H718M697 362H728" stroke="#48524c"/>
+    <path d="M881 267V259M870 267V248H893V267" stroke="#f5bd66" stroke-width="2"/>
+    <path d="M787 427V448H811V427M951 427V448H975V427" stroke="#f5bd66" stroke-width="2"/>
+    <path d="M730 454H1041" stroke="#48524c"/>
+    <!-- The inspection loop stays deliberately visible. -->
+    <path d="M1008 347H1050V466H722V396H748" stroke="#718a8b" stroke-width="1.5" stroke-dasharray="5 6"/>
+  </g>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="1">
+    <text x="814" y="101" fill="#b4d8bc">TIME</text>
+    <text x="1021" y="136" fill="#b4d8bc">AGENCY</text>
+    <text x="974" y="244" fill="#b4d8bc">ABUNDANCE</text>
+    <text x="882" y="311" text-anchor="middle" fill="#92a7ad" font-size="10" letter-spacing="2">AUTOMATION ENGINE</text>
+    <text x="880" y="489" text-anchor="middle" fill="#92a7ad" font-size="11">OBSERVE / AUTOMATE / VERIFY / IMPROVE</text>
+  </g>
+
+  <path d="M54 524H1146" stroke="#344348"/>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="54" y="559" fill="#f5bd66" font-size="12" letter-spacing="1">01 / LESS TOIL</text>
+    <text x="54" y="585" fill="#b3c0bf" font-size="14">give the loops to machines.</text>
+    <text x="442" y="559" fill="#b4d8bc" font-size="12" letter-spacing="1">02 / MORE CAPABILITY</text>
+    <text x="442" y="585" fill="#b3c0bf" font-size="14">make useful things possible.</text>
+    <text x="842" y="559" fill="#f1eddf" font-size="12" letter-spacing="1">03 / HUMAN PROSPERITY</text>
+    <text x="842" y="585" fill="#b3c0bf" font-size="14">let the benefits reach people.</text>
+  </g>
+</svg>
